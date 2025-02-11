@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/zero/z3/topic_practice_ws/install/status_interfaces/include/**",
+                "/opt/ros/jazzy/include/**",
+                "/home/zero/z3/topic_practice_ws/src/status_interfaces/include/**",
+                "/usr/include/**",
+                "/usr/include/x86_64-linux-gnu/qt5/**",
+                "/opt/ros/jazzy/include/rclcpp"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
